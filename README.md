@@ -24,7 +24,7 @@
   <img align="center" alt="CyberAnuk-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="CyberAnuk-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="CyberAnuk-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="CyberAnuk-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/955581420150063114/957245960004718602/daniel.jpg">
+  <img align="right" alt="CyberAnuk-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/955581420150063114/957245960004718602/daniel.jpg">
 </div>
   
   ##
