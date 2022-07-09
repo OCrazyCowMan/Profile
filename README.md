@@ -1,4 +1,4 @@
-## Olá! Eu sou o Crazy Cow Man, sou gerente de TI em uma multinacional<img align="center" alt="CyberAnuk-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> e ajudo novatos no mercado de programação e tecnologia <img align="center" alt="CyberAnuk-Dev-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+## Olá! Eu sou o Crazy Cow Man, sou gerente de TI em uma multinacional <img align="center" alt="CyberAnuk-Facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> e ajudo novatos no mercado de programação e tecnologia <img align="center" alt="CyberAnuk-Dev-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
 <div align="center">
   <a href="https://github.com/CyberAnuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenorocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
